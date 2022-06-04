@@ -2,7 +2,7 @@
 This repository contains source codes for the [paper](https://arxiv.org/abs/2205.10456).
 
 ## Citation
-```citation
+```BibTeX
 @misc{https://doi.org/10.48550/arxiv.2205.10456,
   doi = {10.48550/ARXIV.2205.10456},  
   url = {https://arxiv.org/abs/2205.10456},
