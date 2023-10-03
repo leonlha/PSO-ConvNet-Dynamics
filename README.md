@@ -1,5 +1,5 @@
 # PSO-Convolutional Neural Networks with Heterogeneous Learning Rate
-This repository contains source codes for the [paper](https://arxiv.org/abs/2205.10456).
+This repository contains source codes for the [paper](https://ieeexplore.ieee.org/abstract/document/9864581).
 
 ## Citation
 ```BibTeX
