@@ -3,16 +3,15 @@ This repository contains source codes for the [paper](https://arxiv.org/abs/2205
 
 ## Citation
 ```BibTeX
-@misc{https://doi.org/10.48550/arxiv.2205.10456,
-  doi = {10.48550/ARXIV.2205.10456},  
-  url = {https://arxiv.org/abs/2205.10456},
-  author = {Phong, Nguyen Huu and Santos, Augusto and Ribeiro, Bernardete},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), Neural and Evolutionary Computing (cs.NE), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {PSO-Convolutional Neural Networks with Heterogeneous Learning Rate},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
-}
+@ARTICLE{phong2022pso,
+  author={Phong, Nguyen Huu and Santos, Augusto and Ribeiro, Bernardete},
+  journal={IEEE Access}, 
+  title={PSO-Convolutional Neural Networks With Heterogeneous Learning Rate}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={89970-89988},
+  doi={10.1109/ACCESS.2022.3201142}}
 ```
 
 ## Contact for Issues
